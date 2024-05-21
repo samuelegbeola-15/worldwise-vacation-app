@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "1a81",
+      "cityName": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-05-13T12:01:00.249Z",
+      "notes": "Monumental 😋",
+      "position": {
+        "lat": "6.713075198806752",
+        "lng": "3.3302336401842334"
+      }
+    },
+    {
+      "id": "20fb",
+      "cityName": "Ibadan",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-05-13T12:18:50.839Z",
+      "notes": "Scholarly!",
+      "position": {
+        "lat": "7.362032975457833",
+        "lng": "3.912757265308589"
+      }
+    },
+    {
+      "id": "907a",
+      "cityName": "Djidja",
+      "country": "Benin",
+      "emoji": "🇧🇯",
+      "date": "2024-05-13T18:04:41.962Z",
+      "notes": "Trilling 😍😍",
+      "position": {
+        "lat": "7.291136144435253",
+        "lng": "1.8794177414358826"
+      }
+    }
+  ]
+}

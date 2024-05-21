@@ -1,0 +1,8 @@
+.bckground {
+  background-color: var(--color-dark--1);
+}
+
+.bckground > h1 {
+  margin: 2rem;
+  padding-bottom: 2rem;
+}
